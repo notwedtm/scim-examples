@@ -1,4 +1,4 @@
-## 1Password SCIM bridge deployment examples
+## 1Password SCIM bridge deployment examples (for ONE)
 
 Here you can find configuration files and best practice instructions for deploying the 1Password SCIM bridge on various public and private cloud providers.
 
