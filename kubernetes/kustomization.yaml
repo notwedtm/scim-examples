@@ -6,3 +6,4 @@ resources:
 - op-scim-service.yaml
 - redis-deployment.yaml
 - redis-service.yaml
+- redis-config.yaml
